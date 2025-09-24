@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/vision/vision_algorithm/Vision_-Algorithm/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\VISION.dir\\test\\main.cpp.obj -c D:\\vision\\vision_algorithm\\Vision_-Algorithm\\test\\main.cpp",
+  "file": "D:/vision/vision_algorithm/Vision_-Algorithm/test/main.cpp",
+  "output": "CMakeFiles/VISION.dir/test/main.cpp.obj"
+}
+]
